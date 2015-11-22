@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tiempo</string>
+    <string name="help">Para cambiar la ciudad usa el boton de la esquina superior(nombre en inglés)</string>
+
+    <!--Elementos del FragmentWeather-->
+    <string name="cambiar_ciudad">Cambiar ciudad</string>
+    <string name="open_weather_maps_app_id">099910df04ad28dfdd8bfca694ba9625</string>
+    <string name="sol">&#xf00d;</string>
+    <string name="noche">&#xf02e;</string>
+    <string name="niebla">&#xf014;</string>
+    <string name="nublado">&#xf013;</string>
+    <string name="lluvia">&#xf019;</string>
+    <string name="nieve">&#xf01b;</string>
+    <string name="tormenta">&#xf01e;</string>
+    <string name="llovizna">&#xf01c;</string>
+    <string name="no_existe">No se han encontrado datos.</string>
+
+</resources>
