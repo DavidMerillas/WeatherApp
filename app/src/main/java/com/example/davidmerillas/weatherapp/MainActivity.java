@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-        // Bot�n de ayuda
+        // Botón para cambiar la ciudad
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
